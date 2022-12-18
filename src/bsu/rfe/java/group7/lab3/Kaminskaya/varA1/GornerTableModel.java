@@ -1,3 +1,5 @@
+package bsu.rfe.java.group7.lab3.Kaminskaya.varA1;
+
 import javax.swing.table.AbstractTableModel;
 
 @SuppressWarnings("serial")

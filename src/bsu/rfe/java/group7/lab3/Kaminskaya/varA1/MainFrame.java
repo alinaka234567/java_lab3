@@ -1,6 +1,6 @@
+package bsu.rfe.java.group7.lab3.Kaminskaya.varA1;
+
 import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,8 +9,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
-import java.math.BigDecimal;
-import java.math.RoundingMode;
 
 import javax.swing.AbstractAction;
 import javax.swing.Action;

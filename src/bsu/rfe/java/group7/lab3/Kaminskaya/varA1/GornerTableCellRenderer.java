@@ -1,3 +1,5 @@
+package bsu.rfe.java.group7.lab3.Kaminskaya.varA1;
+
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.FlowLayout;
